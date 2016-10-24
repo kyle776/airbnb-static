@@ -1,0 +1,17 @@
+.card-catagory {
+  color: white;
+  text-shadow: 1px 1px 1px rgba(1,1,1,0.5)
+}
+
+.card-description {
+  color: white;
+  text-shadow: 1px 1px 1px rgba(1,1,1,0.5)
+}
+
+.card {
+  height: 250px;
+  background-size: cover !important;
+  border-radius: 4px;
+  box-shadow: 2px 2px 3px rgba(1,1,1,0.4)
+  // position: relative;
+}
